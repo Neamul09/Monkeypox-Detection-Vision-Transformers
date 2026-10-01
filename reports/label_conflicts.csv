@@ -1,0 +1,2 @@
+conflict_type,sha256,labels_found,sources_and_labels,sample_paths,recommended_action
+NEAR_DUPLICATE_LABEL_CONFLICT,dist=0,Chickenpox vs Monkeypox,MSID by Dipankar Bala (Chickenpox) vs MSID by Dipankar Bala (Monkeypox),MSID by Dipankar Bala\Chickenpox\chickenpox94.png <--> MSID by Dipankar Bala\Monkeypox\monkeypox84.png,MANUAL_REVIEW_REQUIRED: Visually near-identical images have different labels

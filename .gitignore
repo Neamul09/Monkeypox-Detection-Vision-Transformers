@@ -1,0 +1,59 @@
+# Large Datasets (Must not be pushed to GitHub)
+Combined Dataset/
+DATASET/
+processed/
+mkpox_dataset_grayscale/
+dataset/
+dataset_local/
+
+# Model Checkpoints and Weights
+*.pth
+*.pt
+*.bin
+*.h5
+*.ckpt
+*.onnx
+results/*/checkpoints/
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook Checkpoints & Cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE & OS Cache
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / Temporary Scripts
+scratch/

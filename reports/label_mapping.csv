@@ -1,0 +1,15 @@
+dataset_source,original_label,canonical_label,mapping_reason,confidence,review_required
+Healthy Skin Images by Zahid Jamali,Healthy Skin,Normal,Synonym representing healthy skin,HIGH,False
+MSID by Dipankar Bala,Chickenpox,Chickenpox,Direct match with canonical class,HIGH,False
+MSID by Dipankar Bala,Monkeypox,Monkeypox,Direct match with canonical class,HIGH,False
+MSID by Dipankar Bala,Normal,Normal,Direct match with canonical class,HIGH,False
+MonkeyPox Skin Image Dataset for Computer Vision (,Chickenpox,Chickenpox,Direct match with canonical class,HIGH,False
+MonkeyPox Skin Image Dataset for Computer Vision (,Monkeypox,Monkeypox,Direct match with canonical class,HIGH,False
+Monkeypox Skin Lesion Dataset by TensorKitty,Monkey Pox,Monkeypox,Spaced variant of canonical Monkeypox,HIGH,False
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,Chickenpox,Chickenpox,Direct match with canonical class,HIGH,False
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,Cowpox,UNRESOLVED,Out-of-scope dermatological class (Cowpox),HIGH (Out-of-scope),True
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,HFMD,UNRESOLVED,"Out-of-scope class (Hand, Foot, and Mouth Disease)",HIGH (Out-of-scope),True
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,Healthy,Normal,Synonym representing healthy skin devoid of pox lesions,HIGH,False
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,Measles,UNRESOLVED,Out-of-scope dermatological class (Measles),HIGH (Out-of-scope),True
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,Monkeypox,Monkeypox,Direct match with canonical class,HIGH,False
+Skin-Disease-Dataset by Subir Biswas,Chickenpox,Chickenpox,Direct match with canonical class,HIGH,False

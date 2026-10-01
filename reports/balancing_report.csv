@@ -1,0 +1,4 @@
+Split,Chickenpox,Monkeypox,Normal,Total,Balance_Status
+Train,406,408,407,1221,"Highly Balanced (406 CP, 408 MP, 407 Normal)"
+Test,105,105,105,315,"Perfect 1:1:1 Balance (105 CP, 105 MP, 105 Normal)"
+Overall,511,513,512,1536,"511 CP, 513 MP, 512 Normal"

@@ -1,0 +1,7 @@
+dataset_name,total_files,valid_images,corrupted_or_invalid,exact_duplicate_copies,unique_canonical_images,classes_present,target_classes_present
+Healthy Skin Images by Zahid Jamali,384,384,0,0,384,Healthy Skin,Normal
+Skin-Disease-Dataset by Subir Biswas,170,170,0,12,158,Chickenpox,Chickenpox
+MSID by Dipankar Bala,679,679,0,4,675,Chickenpox; Monkeypox; Normal,Chickenpox; Monkeypox; Normal
+Mpox Skin Lesion Dataset Version 2.0 (MSLD v2.0) by Joydip Paul,3775,3775,0,3021,472,Chickenpox; Cowpox; Healthy; HFMD; Measles; Monkeypox,Chickenpox; Normal; Monkeypox
+Monkeypox Skin Lesion Dataset by TensorKitty,102,102,0,47,55,Monkey Pox,Monkeypox
+MonkeyPox Skin Image Dataset for Computer Vision (,400,400,0,5,395,Chickenpox; Monkeypox,Chickenpox; Monkeypox

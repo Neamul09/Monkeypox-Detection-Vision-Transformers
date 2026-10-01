@@ -1,0 +1,24 @@
+{
+    "random_seed": 42,
+    "train_ratio": 0.7949,
+    "test_ratio": 0.2051,
+    "canonical_classes": [
+        "Chickenpox",
+        "Monkeypox",
+        "Normal"
+    ],
+    "train_counts": {
+        "Chickenpox": 406,
+        "Monkeypox": 408,
+        "Normal": 407,
+        "Total": 1221
+    },
+    "test_counts": {
+        "Chickenpox": 105,
+        "Monkeypox": 105,
+        "Normal": 105,
+        "Total": 315
+    },
+    "leakage_audit": "Zero exact duplicates, zero near-duplicates (pHash <= 4), zero patient/lesion prefix overlap",
+    "timestamp": "2026-09-22 21:54:22"
+}
