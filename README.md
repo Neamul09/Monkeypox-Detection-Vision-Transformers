@@ -189,21 +189,6 @@ pip install -r requirements.txt
 
 ---
 
-## Citation
-
-If you use this benchmark, models, or dataset methodology in your research, please cite:
-
-```bibtex
-@article{neon2026monkeypox,
-  title={Comparative Empirical Evaluation of Modern Vision Transformer and Hybrid Architectures for Multiclass Monkeypox Skin Lesion Classification with Test-Time Augmentation and Interpretability Auditing},
-  author={Neon, Neamul Morshed and Nur-A-Alam, Md. and Emon, Nayeem Ahmed and Puspo, Sadia Anjum and Sirat, Nurus Salehin},
-  journal={Working Paper},
-  year={2026}
-}
-```
-
----
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
